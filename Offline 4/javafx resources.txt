@@ -1,0 +1,32 @@
+Introduction to JavaFX
+	https://docs.oracle.com/javafx/2/get_started/hello_world.htm
+	
+Understanding Scene Graph (Optional)
+	https://docs.oracle.com/javafx/2/scenegraph/jfxpub-scenegraph.htm
+	
+Introduction to Built-in Layout Panes
+	https://docs.oracle.com/javafx/2/layout/builtin_layouts.htm
+	
+Introduction to FXML
+	https://docs.oracle.com/javafx/2/get_started/fxml_tutorial.htm
+
+Scene Builder Installer
+	https://www.oracle.com/technetwork/java/javafxscenebuilder-1x-archive-2199384.html
+	(Note: Download Scene Builder 2)
+	
+Using Scene Builder with Different Java IDE
+	https://docs.oracle.com/javafx/scenebuilder/1/use_java_ides/jsbpub-use_java_ides.htm
+	
+Getting Started with Scene Builder
+	https://docs.oracle.com/javafx/scenebuilder/1/get_started/jsbpub-get_started.htm
+	
+JavaFX UI Controls
+	https://docs.oracle.com/javafx/2/ui_controls/jfxpub-ui_controls.htm
+	
+Introduction to Animation
+	https://docs.oracle.com/javafx/2/get_started/animation.htm
+	
+Samples and Demos
+	https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+	(Note: From this link download "Java SE Development Kit 8u192 Demos and Samples". Unzip it. 
+	Go to \jdk1.8.0_192\demo\javafx_samples. Open the .jar files and explore the samples.)
